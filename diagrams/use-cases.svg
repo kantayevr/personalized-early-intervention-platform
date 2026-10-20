@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1710" height="1220" viewBox="0 0 1710 1220" content="&lt;mxfile host=&quot;app.diagrams.net&quot; compressed=&quot;false&quot;&gt;
+  &lt;diagram id=&quot;use-cases&quot; name=&quot;02  Варианты использования&quot;&gt;
+    &lt;mxGraphModel dx=&quot;0&quot; dy=&quot;0&quot; grid=&quot;1&quot; gridSize=&quot;10&quot; guides=&quot;1&quot; tooltips=&quot;1&quot; connect=&quot;1&quot; arrows=&quot;1&quot; fold=&quot;1&quot; page=&quot;1&quot; pageScale=&quot;1&quot; pageWidth=&quot;1710&quot; pageHeight=&quot;1220&quot; math=&quot;0&quot; shadow=&quot;0&quot;&gt;
+      &lt;root&gt;
+        &lt;mxCell id=&quot;0&quot; /&gt;
+        &lt;mxCell id=&quot;1&quot; parent=&quot;0&quot; /&gt;
+        &lt;mxCell id=&quot;figure-title&quot; value=&quot;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:30px;font-weight:bold;color:#172B4D;line-height:125%;&amp;quot;&amp;gt;02  Варианты использования&amp;lt;/div&amp;gt;&quot; style=&quot;whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=left;verticalAlign=middle;strokeWidth=2;text;strokeColor=none;fillColor=none;spacing=0;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+          &lt;mxGeometry x=&quot;60&quot; y=&quot;35&quot; width=&quot;1590&quot; height=&quot;52&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;figure-subtitle&quot; value=&quot;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:16px;font-weight:normal;color:#52657B;line-height:125%;&amp;quot;&amp;gt;UML • основные прикладные сценарии • проект на согласовании&amp;lt;/div&amp;gt;&quot; style=&quot;whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=left;verticalAlign=middle;strokeWidth=2;text;strokeColor=none;fillColor=none;spacing=0;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+          &lt;mxGeometry x=&quot;60&quot; y=&quot;93&quot; width=&quot;1590&quot; height=&quot;45&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;boundary&quot; value=&quot;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&amp;quot;&amp;gt;«system»  Платформа поддержки раннего вмешательства&amp;lt;/div&amp;gt;&quot; style=&quot;whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;rounded=0;fillColor=#FAFBFD;strokeColor=#9CAEC2;align=left;verticalAlign=top;spacingLeft=22;spacingTop=16;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+          &lt;mxGeometry x=&quot;330&quot; y=&quot;150&quot; width=&quot;1320&quot; height=&quot;940&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;p1&quot; value=&quot;&quot; style=&quot;edgeStyle=none;noEdgeStyle=1;html=1;rounded=0;strokeColor=#53667E;strokeWidth=2;startArrow=none;endArrow=none;startFill=1;endFill=1;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;parent&quot; target=&quot;uc-p1&quot;&gt;
+          &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;p2&quot; value=&quot;&quot; style=&quot;edgeStyle=none;noEdgeStyle=1;html=1;rounded=0;strokeColor=#53667E;strokeWidth=2;startArrow=none;endArrow=none;startFill=1;endFill=1;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;parent&quot; target=&quot;uc-p2&quot;&gt;
+          &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;
+            &lt;Array as=&quot;points&quot;&gt;
+              &lt;mxPoint x=&quot;270&quot; y=&quot;345&quot; /&gt;
+              &lt;mxPoint x=&quot;270&quot; y=&quot;235&quot; /&gt;
+              &lt;mxPoint x=&quot;1015&quot; y=&quot;235&quot; /&gt;
+            &lt;/Array&gt;
+          &lt;/mxGeometry&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;p3&quot; value=&quot;&quot; style=&quot;edgeStyle=none;noEdgeStyle=1;html=1;rounded=0;strokeColor=#53667E;strokeWidth=2;startArrow=none;endArrow=none;startFill=1;endFill=1;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;parent&quot; target=&quot;uc-p3&quot;&gt;
+          &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;
+            &lt;Array as=&quot;points&quot;&gt;
+              &lt;mxPoint x=&quot;290&quot; y=&quot;345&quot; /&gt;
+              &lt;mxPoint x=&quot;290&quot; y=&quot;205&quot; /&gt;
+              &lt;mxPoint x=&quot;1445&quot; y=&quot;205&quot; /&gt;
+            &lt;/Array&gt;
+          &lt;/mxGeometry&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;s1&quot; value=&quot;&quot; style=&quot;edgeStyle=none;noEdgeStyle=1;html=1;rounded=0;strokeColor=#53667E;strokeWidth=2;startArrow=none;endArrow=none;startFill=1;endFill=1;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;specialist&quot; target=&quot;uc-s1&quot;&gt;
+          &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;s2&quot; value=&quot;&quot; style=&quot;edgeStyle=none;noEdgeStyle=1;html=1;rounded=0;strokeColor=#53667E;strokeWidth=2;startArrow=none;endArrow=none;startFill=1;endFill=1;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;specialist&quot; target=&quot;uc-s2&quot;&gt;
+          &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;
+            &lt;Array as=&quot;points&quot;&gt;
+              &lt;mxPoint x=&quot;270&quot; y=&quot;645&quot; /&gt;
+              &lt;mxPoint x=&quot;270&quot; y=&quot;535&quot; /&gt;
+              &lt;mxPoint x=&quot;1015&quot; y=&quot;535&quot; /&gt;
+            &lt;/Array&gt;
+          &lt;/mxGeometry&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;s3&quot; value=&quot;&quot; style=&quot;edgeStyle=none;noEdgeStyle=1;html=1;rounded=0;strokeColor=#53667E;strokeWidth=2;startArrow=none;endArrow=none;startFill=1;endFill=1;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;specialist&quot; target=&quot;uc-s3&quot;&gt;
+          &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;
+            &lt;Array as=&quot;points&quot;&gt;
+              &lt;mxPoint x=&quot;290&quot; y=&quot;645&quot; /&gt;
+              &lt;mxPoint x=&quot;290&quot; y=&quot;505&quot; /&gt;
+              &lt;mxPoint x=&quot;1445&quot; y=&quot;505&quot; /&gt;
+            &lt;/Array&gt;
+          &lt;/mxGeometry&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;s-history&quot; value=&quot;&quot; style=&quot;edgeStyle=none;noEdgeStyle=1;html=1;rounded=0;strokeColor=#53667E;strokeWidth=2;startArrow=none;endArrow=none;startFill=1;endFill=1;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=1.0;entryPerimeter=0;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;specialist&quot; target=&quot;uc-p3&quot;&gt;
+          &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;
+            &lt;Array as=&quot;points&quot;&gt;
+              &lt;mxPoint x=&quot;250&quot; y=&quot;645&quot; /&gt;
+              &lt;mxPoint x=&quot;250&quot; y=&quot;465&quot; /&gt;
+              &lt;mxPoint x=&quot;1445&quot; y=&quot;465&quot; /&gt;
+            &lt;/Array&gt;
+          &lt;/mxGeometry&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;a1&quot; value=&quot;&quot; style=&quot;edgeStyle=none;noEdgeStyle=1;html=1;rounded=0;strokeColor=#53667E;strokeWidth=2;startArrow=none;endArrow=none;startFill=1;endFill=1;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;admin&quot; target=&quot;uc-a1&quot;&gt;
+          &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;a2&quot; value=&quot;&quot; style=&quot;edgeStyle=none;noEdgeStyle=1;html=1;rounded=0;strokeColor=#53667E;strokeWidth=2;startArrow=none;endArrow=none;startFill=1;endFill=1;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;&quot; edge=&quot;1&quot; parent=&quot;1&quot; source=&quot;admin&quot; target=&quot;uc-a2&quot;&gt;
+          &lt;mxGeometry relative=&quot;1&quot; as=&quot;geometry&quot;&gt;
+            &lt;Array as=&quot;points&quot;&gt;
+              &lt;mxPoint x=&quot;270&quot; y=&quot;945&quot; /&gt;
+              &lt;mxPoint x=&quot;270&quot; y=&quot;835&quot; /&gt;
+              &lt;mxPoint x=&quot;1015&quot; y=&quot;835&quot; /&gt;
+            &lt;/Array&gt;
+          &lt;/mxGeometry&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;parent&quot; value=&quot;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:16px;font-weight:bold;color:#172B4D;line-height:125%;&amp;quot;&amp;gt;Родитель /&amp;lt;/div&amp;gt;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:16px;font-weight:bold;color:#172B4D;line-height:125%;&amp;quot;&amp;gt;представитель&amp;lt;/div&amp;gt;&quot; style=&quot;whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;fillColor=none;strokeColor=#172B4D;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+          &lt;mxGeometry x=&quot;105&quot; y=&quot;290&quot; width=&quot;70&quot; height=&quot;110&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;specialist&quot; value=&quot;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:16px;font-weight:bold;color:#172B4D;line-height:125%;&amp;quot;&amp;gt;Специалист&amp;lt;/div&amp;gt;&quot; style=&quot;whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;fillColor=none;strokeColor=#172B4D;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+          &lt;mxGeometry x=&quot;105&quot; y=&quot;590&quot; width=&quot;70&quot; height=&quot;110&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;admin&quot; value=&quot;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:16px;font-weight:bold;color:#172B4D;line-height:125%;&amp;quot;&amp;gt;Администратор&amp;lt;/div&amp;gt;&quot; style=&quot;whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;fillColor=none;strokeColor=#172B4D;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+          &lt;mxGeometry x=&quot;105&quot; y=&quot;890&quot; width=&quot;70&quot; height=&quot;110&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;uc-p1&quot; value=&quot;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&amp;quot;&amp;gt;Подготовить профиль&amp;lt;/div&amp;gt;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&amp;quot;&amp;gt;и анкету&amp;lt;/div&amp;gt;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:15px;font-weight:normal;color:#52657B;line-height:125%;&amp;quot;&amp;gt;UC-P1 • FR-05–06&amp;lt;/div&amp;gt;&quot; style=&quot;whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;ellipse;perimeter=ellipsePerimeter;fillColor=#FFFFFF;strokeColor=#245AA8;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+          &lt;mxGeometry x=&quot;420&quot; y=&quot;285&quot; width=&quot;330&quot; height=&quot;120&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;uc-p2&quot; value=&quot;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&amp;quot;&amp;gt;Посмотреть план&amp;lt;/div&amp;gt;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&amp;quot;&amp;gt;и внести результат&amp;lt;/div&amp;gt;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:15px;font-weight:normal;color:#52657B;line-height:125%;&amp;quot;&amp;gt;UC-P2 • FR-13–14&amp;lt;/div&amp;gt;&quot; style=&quot;whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;ellipse;perimeter=ellipsePerimeter;fillColor=#FFFFFF;strokeColor=#245AA8;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+          &lt;mxGeometry x=&quot;850&quot; y=&quot;285&quot; width=&quot;330&quot; height=&quot;120&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;uc-p3&quot; value=&quot;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&amp;quot;&amp;gt;Посмотреть историю&amp;lt;/div&amp;gt;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&amp;quot;&amp;gt;и выполнение&amp;lt;/div&amp;gt;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:15px;font-weight:normal;color:#52657B;line-height:125%;&amp;quot;&amp;gt;UC-P3 • FR-15–16&amp;lt;/div&amp;gt;&quot; style=&quot;whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;ellipse;perimeter=ellipsePerimeter;fillColor=#FFFFFF;strokeColor=#245AA8;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+          &lt;mxGeometry x=&quot;1280&quot; y=&quot;285&quot; width=&quot;330&quot; height=&quot;120&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;uc-s1&quot; value=&quot;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&amp;quot;&amp;gt;Добавить&amp;lt;/div&amp;gt;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&amp;quot;&amp;gt;наблюдение&amp;lt;/div&amp;gt;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:15px;font-weight:normal;color:#52657B;line-height:125%;&amp;quot;&amp;gt;UC-S1 • FR-07&amp;lt;/div&amp;gt;&quot; style=&quot;whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;ellipse;perimeter=ellipsePerimeter;fillColor=#FFFFFF;strokeColor=#245AA8;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+          &lt;mxGeometry x=&quot;420&quot; y=&quot;585&quot; width=&quot;330&quot; height=&quot;120&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;uc-s2&quot; value=&quot;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&amp;quot;&amp;gt;Получить рекомендации&amp;lt;/div&amp;gt;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&amp;quot;&amp;gt;и объяснения&amp;lt;/div&amp;gt;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:15px;font-weight:normal;color:#52657B;line-height:125%;&amp;quot;&amp;gt;UC-S2 • FR-08–11&amp;lt;/div&amp;gt;&quot; style=&quot;whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;ellipse;perimeter=ellipsePerimeter;fillColor=#FFFFFF;strokeColor=#245AA8;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+          &lt;mxGeometry x=&quot;850&quot; y=&quot;585&quot; width=&quot;330&quot; height=&quot;120&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;uc-s3&quot; value=&quot;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&amp;quot;&amp;gt;Подготовить&amp;lt;/div&amp;gt;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&amp;quot;&amp;gt;и опубликовать план&amp;lt;/div&amp;gt;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:15px;font-weight:normal;color:#52657B;line-height:125%;&amp;quot;&amp;gt;UC-S3 • FR-12&amp;lt;/div&amp;gt;&quot; style=&quot;whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;ellipse;perimeter=ellipsePerimeter;fillColor=#FFFFFF;strokeColor=#245AA8;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+          &lt;mxGeometry x=&quot;1280&quot; y=&quot;585&quot; width=&quot;330&quot; height=&quot;120&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;uc-a1&quot; value=&quot;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&amp;quot;&amp;gt;Управлять специалистами&amp;lt;/div&amp;gt;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&amp;quot;&amp;gt;и доступом&amp;lt;/div&amp;gt;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:15px;font-weight:normal;color:#52657B;line-height:125%;&amp;quot;&amp;gt;UC-A1 • FR-04&amp;lt;/div&amp;gt;&quot; style=&quot;whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;ellipse;perimeter=ellipsePerimeter;fillColor=#FFFFFF;strokeColor=#245AA8;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+          &lt;mxGeometry x=&quot;420&quot; y=&quot;885&quot; width=&quot;330&quot; height=&quot;120&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;uc-a2&quot; value=&quot;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&amp;quot;&amp;gt;Редактировать каталог&amp;lt;/div&amp;gt;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&amp;quot;&amp;gt;через интерфейс&amp;lt;/div&amp;gt;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:15px;font-weight:normal;color:#52657B;line-height:125%;&amp;quot;&amp;gt;UC-A2 • FR-18 • Should&amp;lt;/div&amp;gt;&quot; style=&quot;whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;ellipse;perimeter=ellipsePerimeter;fillColor=#FFFFFF;strokeColor=#245AA8;dashed=1;dashPattern=8 6;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+          &lt;mxGeometry x=&quot;850&quot; y=&quot;885&quot; width=&quot;330&quot; height=&quot;120&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;uc-note-1&quot; value=&quot;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:15px;font-weight:normal;color:#52657B;line-height:125%;&amp;quot;&amp;gt;Общие сценарии: регистрация родителя (FR-01), вход/выход всех ролей (FR-02); проверка доступа (FR-03) действует во всех защищённых операциях.&amp;lt;/div&amp;gt;&quot; style=&quot;whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=left;verticalAlign=middle;strokeWidth=2;text;strokeColor=none;fillColor=none;spacing=0;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+          &lt;mxGeometry x=&quot;60&quot; y=&quot;1110&quot; width=&quot;1590&quot; height=&quot;38&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+        &lt;mxCell id=&quot;uc-note-2&quot; value=&quot;&amp;lt;div style=&amp;quot;font-family:Arial;font-size:15px;font-weight:normal;color:#52657B;line-height:125%;&amp;quot;&amp;gt;Линия — участие роли, а не порядок действий. Пунктирный овал — Should. Пересмотр подбора по истории FR-17 — расширение UC-S2.&amp;lt;/div&amp;gt;&quot; style=&quot;whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=left;verticalAlign=middle;strokeWidth=2;text;strokeColor=none;fillColor=none;spacing=0;&quot; vertex=&quot;1&quot; parent=&quot;1&quot;&gt;
+          &lt;mxGeometry x=&quot;60&quot; y=&quot;1150&quot; width=&quot;1590&quot; height=&quot;38&quot; as=&quot;geometry&quot; /&gt;
+        &lt;/mxCell&gt;
+      &lt;/root&gt;
+    &lt;/mxGraphModel&gt;
+  &lt;/diagram&gt;
+&lt;/mxfile&gt;" role="img" aria-labelledby="title desc">
+<title id="title">02  Варианты использования</title><desc id="desc">UML • основные прикладные сценарии • проект на согласовании. Редактируемый исходник находится в одноимённом файле drawio.</desc>
+<defs><marker id="end" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto-start-reverse"><path d="M0,0 L8,4.5 L0,9 Z" fill="#245AA8"/></marker><marker id="open" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M0,0 L9,5 L0,10" fill="none" stroke="#245AA8" stroke-width="1.5"/></marker></defs>
+<rect width="1710" height="1220" fill="#FFFFFF"/>
+<text x="66" y="69.25" text-anchor="start" fill="#172B4D" font-family="Arial, sans-serif" font-size="30" font-weight="700">02  Варианты использования</text>
+<text x="66" y="119.9" text-anchor="start" fill="#52657B" font-family="Arial, sans-serif" font-size="16" font-weight="400">UML • основные прикладные сценарии • проект на согласовании</text>
+<rect x="330" y="150" width="1320" height="940" rx="0" fill="#FAFBFD" stroke="#9CAEC2" stroke-width="1.5"/><text x="352" y="182.2" text-anchor="start" fill="#172B4D" font-family="Arial, sans-serif" font-size="18" font-weight="700">«system»  Платформа поддержки раннего вмешательства</text>
+<polyline points="175,345 420,345" fill="none" stroke="#53667E" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="175,345 270,345 270,235 1015,235 1015,285" fill="none" stroke="#53667E" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="175,345 290,345 290,205 1445,205 1445,285" fill="none" stroke="#53667E" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="175,645 420,645" fill="none" stroke="#53667E" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="175,645 270,645 270,535 1015,535 1015,585" fill="none" stroke="#53667E" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="175,645 290,645 290,505 1445,505 1445,585" fill="none" stroke="#53667E" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="175,645 250,645 250,465 1445,465 1445,405" fill="none" stroke="#53667E" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="175,945 420,945" fill="none" stroke="#53667E" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="175,945 270,945 270,835 1015,835 1015,885" fill="none" stroke="#53667E" stroke-width="2" stroke-linejoin="round"/>
+<g fill="none" stroke="#172B4D" stroke-width="2.6" stroke-linecap="round"><circle cx="140.0" cy="303.3" r="13.3"/><path d="M 140.0 316.6 L 140.0 360.4 M 105 331.8 L 175 331.8 M 105 400 L 140.0 360.4 L 175 400"/></g><text x="140.0" y="424.4" text-anchor="middle" fill="#172B4D" font-family="Arial, sans-serif" font-size="16" font-weight="700">Родитель /</text><text x="140.0" y="444.4" text-anchor="middle" fill="#172B4D" font-family="Arial, sans-serif" font-size="16" font-weight="700">представитель</text>
+<g fill="none" stroke="#172B4D" stroke-width="2.6" stroke-linecap="round"><circle cx="140.0" cy="603.3" r="13.3"/><path d="M 140.0 616.5999999999999 L 140.0 660.4 M 105 631.8 L 175 631.8 M 105 700 L 140.0 660.4 L 175 700"/></g><text x="140.0" y="724.4" text-anchor="middle" fill="#172B4D" font-family="Arial, sans-serif" font-size="16" font-weight="700">Специалист</text>
+<g fill="none" stroke="#172B4D" stroke-width="2.6" stroke-linecap="round"><circle cx="140.0" cy="903.3" r="13.3"/><path d="M 140.0 916.5999999999999 L 140.0 960.4 M 105 931.8 L 175 931.8 M 105 1000 L 140.0 960.4 L 175 1000"/></g><text x="140.0" y="1024.4" text-anchor="middle" fill="#172B4D" font-family="Arial, sans-serif" font-size="16" font-weight="700">Администратор</text>
+<ellipse cx="585.0" cy="345.0" rx="165.0" ry="60.0" fill="#FFFFFF" stroke="#245AA8" stroke-width="2"/><text x="585.0" y="329.325" text-anchor="middle" fill="#172B4D" font-family="Arial, sans-serif" font-size="18" font-weight="700">Подготовить профиль</text><text x="585.0" y="351.825" text-anchor="middle" fill="#172B4D" font-family="Arial, sans-serif" font-size="18" font-weight="700">и анкету</text><text x="585.0" y="371.625" text-anchor="middle" fill="#52657B" font-family="Arial, sans-serif" font-size="15" font-weight="400">UC-P1 • FR-05–06</text>
+<ellipse cx="1015.0" cy="345.0" rx="165.0" ry="60.0" fill="#FFFFFF" stroke="#245AA8" stroke-width="2"/><text x="1015.0" y="329.325" text-anchor="middle" fill="#172B4D" font-family="Arial, sans-serif" font-size="18" font-weight="700">Посмотреть план</text><text x="1015.0" y="351.825" text-anchor="middle" fill="#172B4D" font-family="Arial, sans-serif" font-size="18" font-weight="700">и внести результат</text><text x="1015.0" y="371.625" text-anchor="middle" fill="#52657B" font-family="Arial, sans-serif" font-size="15" font-weight="400">UC-P2 • FR-13–14</text>
+<ellipse cx="1445.0" cy="345.0" rx="165.0" ry="60.0" fill="#FFFFFF" stroke="#245AA8" stroke-width="2"/><text x="1445.0" y="329.325" text-anchor="middle" fill="#172B4D" font-family="Arial, sans-serif" font-size="18" font-weight="700">Посмотреть историю</text><text x="1445.0" y="351.825" text-anchor="middle" fill="#172B4D" font-family="Arial, sans-serif" font-size="18" font-weight="700">и выполнение</text><text x="1445.0" y="371.625" text-anchor="middle" fill="#52657B" font-family="Arial, sans-serif" font-size="15" font-weight="400">UC-P3 • FR-15–16</text>
+<ellipse cx="585.0" cy="645.0" rx="165.0" ry="60.0" fill="#FFFFFF" stroke="#245AA8" stroke-width="2"/><text x="585.0" y="629.325" text-anchor="middle" fill="#172B4D" font-family="Arial, sans-serif" font-size="18" font-weight="700">Добавить</text><text x="585.0" y="651.825" text-anchor="middle" fill="#172B4D" font-family="Arial, sans-serif" font-size="18" font-weight="700">наблюдение</text><text x="585.0" y="671.625" text-anchor="middle" fill="#52657B" font-family="Arial, sans-serif" font-size="15" font-weight="400">UC-S1 • FR-07</text>
+<ellipse cx="1015.0" cy="645.0" rx="165.0" ry="60.0" fill="#FFFFFF" stroke="#245AA8" stroke-width="2"/><text x="1015.0" y="629.325" text-anchor="middle" fill="#172B4D" font-family="Arial, sans-serif" font-size="18" font-weight="700">Получить рекомендации</text><text x="1015.0" y="651.825" text-anchor="middle" fill="#172B4D" font-family="Arial, sans-serif" font-size="18" font-weight="700">и объяснения</text><text x="1015.0" y="671.625" text-anchor="middle" fill="#52657B" font-family="Arial, sans-serif" font-size="15" font-weight="400">UC-S2 • FR-08–11</text>
+<ellipse cx="1445.0" cy="645.0" rx="165.0" ry="60.0" fill="#FFFFFF" stroke="#245AA8" stroke-width="2"/><text x="1445.0" y="629.325" text-anchor="middle" fill="#172B4D" font-family="Arial, sans-serif" font-size="18" font-weight="700">Подготовить</text><text x="1445.0" y="651.825" text-anchor="middle" fill="#172B4D" font-family="Arial, sans-serif" font-size="18" font-weight="700">и опубликовать план</text><text x="1445.0" y="671.625" text-anchor="middle" fill="#52657B" font-family="Arial, sans-serif" font-size="15" font-weight="400">UC-S3 • FR-12</text>
+<ellipse cx="585.0" cy="945.0" rx="165.0" ry="60.0" fill="#FFFFFF" stroke="#245AA8" stroke-width="2"/><text x="585.0" y="929.325" text-anchor="middle" fill="#172B4D" font-family="Arial, sans-serif" font-size="18" font-weight="700">Управлять специалистами</text><text x="585.0" y="951.825" text-anchor="middle" fill="#172B4D" font-family="Arial, sans-serif" font-size="18" font-weight="700">и доступом</text><text x="585.0" y="971.625" text-anchor="middle" fill="#52657B" font-family="Arial, sans-serif" font-size="15" font-weight="400">UC-A1 • FR-04</text>
+<ellipse cx="1015.0" cy="945.0" rx="165.0" ry="60.0" fill="#FFFFFF" stroke="#245AA8" stroke-width="2" stroke-dasharray="8 6"/><text x="1015.0" y="929.325" text-anchor="middle" fill="#172B4D" font-family="Arial, sans-serif" font-size="18" font-weight="700">Редактировать каталог</text><text x="1015.0" y="951.825" text-anchor="middle" fill="#172B4D" font-family="Arial, sans-serif" font-size="18" font-weight="700">через интерфейс</text><text x="1015.0" y="971.625" text-anchor="middle" fill="#52657B" font-family="Arial, sans-serif" font-size="15" font-weight="400">UC-A2 • FR-18 • Should</text>
+<text x="66" y="1133.125" text-anchor="start" fill="#52657B" font-family="Arial, sans-serif" font-size="15" font-weight="400">Общие сценарии: регистрация родителя (FR-01), вход/выход всех ролей (FR-02); проверка доступа (FR-03) действует во всех защищённых операциях.</text>
+<text x="66" y="1173.125" text-anchor="start" fill="#52657B" font-family="Arial, sans-serif" font-size="15" font-weight="400">Линия — участие роли, а не порядок действий. Пунктирный овал — Should. Пересмотр подбора по истории FR-17 — расширение UC-S2.</text>
+</svg>

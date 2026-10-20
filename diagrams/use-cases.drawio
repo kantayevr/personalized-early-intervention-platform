@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" compressed="false">
+  <diagram id="use-cases" name="02  Варианты использования">
+    <mxGraphModel dx="0" dy="0" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1710" pageHeight="1220" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="figure-title" value="&lt;div style=&quot;font-family:Arial;font-size:30px;font-weight:bold;color:#172B4D;line-height:125%;&quot;&gt;02  Варианты использования&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=left;verticalAlign=middle;strokeWidth=2;text;strokeColor=none;fillColor=none;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="35" width="1590" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="figure-subtitle" value="&lt;div style=&quot;font-family:Arial;font-size:16px;font-weight:normal;color:#52657B;line-height:125%;&quot;&gt;UML • основные прикладные сценарии • проект на согласовании&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=left;verticalAlign=middle;strokeWidth=2;text;strokeColor=none;fillColor=none;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="93" width="1590" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="boundary" value="&lt;div style=&quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&quot;&gt;«system»  Платформа поддержки раннего вмешательства&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;rounded=0;fillColor=#FAFBFD;strokeColor=#9CAEC2;align=left;verticalAlign=top;spacingLeft=22;spacingTop=16;" vertex="1" parent="1">
+          <mxGeometry x="330" y="150" width="1320" height="940" as="geometry" />
+        </mxCell>
+        <mxCell id="p1" value="" style="edgeStyle=none;noEdgeStyle=1;html=1;rounded=0;strokeColor=#53667E;strokeWidth=2;startArrow=none;endArrow=none;startFill=1;endFill=1;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="parent" target="uc-p1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2" value="" style="edgeStyle=none;noEdgeStyle=1;html=1;rounded=0;strokeColor=#53667E;strokeWidth=2;startArrow=none;endArrow=none;startFill=1;endFill=1;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" edge="1" parent="1" source="parent" target="uc-p2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="345" />
+              <mxPoint x="270" y="235" />
+              <mxPoint x="1015" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3" value="" style="edgeStyle=none;noEdgeStyle=1;html=1;rounded=0;strokeColor=#53667E;strokeWidth=2;startArrow=none;endArrow=none;startFill=1;endFill=1;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" edge="1" parent="1" source="parent" target="uc-p3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="345" />
+              <mxPoint x="290" y="205" />
+              <mxPoint x="1445" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s1" value="" style="edgeStyle=none;noEdgeStyle=1;html=1;rounded=0;strokeColor=#53667E;strokeWidth=2;startArrow=none;endArrow=none;startFill=1;endFill=1;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="specialist" target="uc-s1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s2" value="" style="edgeStyle=none;noEdgeStyle=1;html=1;rounded=0;strokeColor=#53667E;strokeWidth=2;startArrow=none;endArrow=none;startFill=1;endFill=1;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" edge="1" parent="1" source="specialist" target="uc-s2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="645" />
+              <mxPoint x="270" y="535" />
+              <mxPoint x="1015" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3" value="" style="edgeStyle=none;noEdgeStyle=1;html=1;rounded=0;strokeColor=#53667E;strokeWidth=2;startArrow=none;endArrow=none;startFill=1;endFill=1;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" edge="1" parent="1" source="specialist" target="uc-s3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="645" />
+              <mxPoint x="290" y="505" />
+              <mxPoint x="1445" y="505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s-history" value="" style="edgeStyle=none;noEdgeStyle=1;html=1;rounded=0;strokeColor=#53667E;strokeWidth=2;startArrow=none;endArrow=none;startFill=1;endFill=1;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=1.0;entryPerimeter=0;" edge="1" parent="1" source="specialist" target="uc-p3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="645" />
+              <mxPoint x="250" y="465" />
+              <mxPoint x="1445" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a1" value="" style="edgeStyle=none;noEdgeStyle=1;html=1;rounded=0;strokeColor=#53667E;strokeWidth=2;startArrow=none;endArrow=none;startFill=1;endFill=1;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="admin" target="uc-a1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2" value="" style="edgeStyle=none;noEdgeStyle=1;html=1;rounded=0;strokeColor=#53667E;strokeWidth=2;startArrow=none;endArrow=none;startFill=1;endFill=1;exitX=1.0;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=0.0;entryPerimeter=0;" edge="1" parent="1" source="admin" target="uc-a2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="945" />
+              <mxPoint x="270" y="835" />
+              <mxPoint x="1015" y="835" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="parent" value="&lt;div style=&quot;font-family:Arial;font-size:16px;font-weight:bold;color:#172B4D;line-height:125%;&quot;&gt;Родитель /&lt;/div&gt;&lt;div style=&quot;font-family:Arial;font-size:16px;font-weight:bold;color:#172B4D;line-height:125%;&quot;&gt;представитель&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;fillColor=none;strokeColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="105" y="290" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="specialist" value="&lt;div style=&quot;font-family:Arial;font-size:16px;font-weight:bold;color:#172B4D;line-height:125%;&quot;&gt;Специалист&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;fillColor=none;strokeColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="105" y="590" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="admin" value="&lt;div style=&quot;font-family:Arial;font-size:16px;font-weight:bold;color:#172B4D;line-height:125%;&quot;&gt;Администратор&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;fillColor=none;strokeColor=#172B4D;" vertex="1" parent="1">
+          <mxGeometry x="105" y="890" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-p1" value="&lt;div style=&quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&quot;&gt;Подготовить профиль&lt;/div&gt;&lt;div style=&quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&quot;&gt;и анкету&lt;/div&gt;&lt;div style=&quot;font-family:Arial;font-size:15px;font-weight:normal;color:#52657B;line-height:125%;&quot;&gt;UC-P1 • FR-05–06&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;ellipse;perimeter=ellipsePerimeter;fillColor=#FFFFFF;strokeColor=#245AA8;" vertex="1" parent="1">
+          <mxGeometry x="420" y="285" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-p2" value="&lt;div style=&quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&quot;&gt;Посмотреть план&lt;/div&gt;&lt;div style=&quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&quot;&gt;и внести результат&lt;/div&gt;&lt;div style=&quot;font-family:Arial;font-size:15px;font-weight:normal;color:#52657B;line-height:125%;&quot;&gt;UC-P2 • FR-13–14&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;ellipse;perimeter=ellipsePerimeter;fillColor=#FFFFFF;strokeColor=#245AA8;" vertex="1" parent="1">
+          <mxGeometry x="850" y="285" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-p3" value="&lt;div style=&quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&quot;&gt;Посмотреть историю&lt;/div&gt;&lt;div style=&quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&quot;&gt;и выполнение&lt;/div&gt;&lt;div style=&quot;font-family:Arial;font-size:15px;font-weight:normal;color:#52657B;line-height:125%;&quot;&gt;UC-P3 • FR-15–16&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;ellipse;perimeter=ellipsePerimeter;fillColor=#FFFFFF;strokeColor=#245AA8;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="285" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-s1" value="&lt;div style=&quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&quot;&gt;Добавить&lt;/div&gt;&lt;div style=&quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&quot;&gt;наблюдение&lt;/div&gt;&lt;div style=&quot;font-family:Arial;font-size:15px;font-weight:normal;color:#52657B;line-height:125%;&quot;&gt;UC-S1 • FR-07&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;ellipse;perimeter=ellipsePerimeter;fillColor=#FFFFFF;strokeColor=#245AA8;" vertex="1" parent="1">
+          <mxGeometry x="420" y="585" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-s2" value="&lt;div style=&quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&quot;&gt;Получить рекомендации&lt;/div&gt;&lt;div style=&quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&quot;&gt;и объяснения&lt;/div&gt;&lt;div style=&quot;font-family:Arial;font-size:15px;font-weight:normal;color:#52657B;line-height:125%;&quot;&gt;UC-S2 • FR-08–11&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;ellipse;perimeter=ellipsePerimeter;fillColor=#FFFFFF;strokeColor=#245AA8;" vertex="1" parent="1">
+          <mxGeometry x="850" y="585" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-s3" value="&lt;div style=&quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&quot;&gt;Подготовить&lt;/div&gt;&lt;div style=&quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&quot;&gt;и опубликовать план&lt;/div&gt;&lt;div style=&quot;font-family:Arial;font-size:15px;font-weight:normal;color:#52657B;line-height:125%;&quot;&gt;UC-S3 • FR-12&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;ellipse;perimeter=ellipsePerimeter;fillColor=#FFFFFF;strokeColor=#245AA8;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="585" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-a1" value="&lt;div style=&quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&quot;&gt;Управлять специалистами&lt;/div&gt;&lt;div style=&quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&quot;&gt;и доступом&lt;/div&gt;&lt;div style=&quot;font-family:Arial;font-size:15px;font-weight:normal;color:#52657B;line-height:125%;&quot;&gt;UC-A1 • FR-04&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;ellipse;perimeter=ellipsePerimeter;fillColor=#FFFFFF;strokeColor=#245AA8;" vertex="1" parent="1">
+          <mxGeometry x="420" y="885" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-a2" value="&lt;div style=&quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&quot;&gt;Редактировать каталог&lt;/div&gt;&lt;div style=&quot;font-family:Arial;font-size:18px;font-weight:bold;color:#172B4D;line-height:125%;&quot;&gt;через интерфейс&lt;/div&gt;&lt;div style=&quot;font-family:Arial;font-size:15px;font-weight:normal;color:#52657B;line-height:125%;&quot;&gt;UC-A2 • FR-18 • Should&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=center;verticalAlign=middle;strokeWidth=2;ellipse;perimeter=ellipsePerimeter;fillColor=#FFFFFF;strokeColor=#245AA8;dashed=1;dashPattern=8 6;" vertex="1" parent="1">
+          <mxGeometry x="850" y="885" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-note-1" value="&lt;div style=&quot;font-family:Arial;font-size:15px;font-weight:normal;color:#52657B;line-height:125%;&quot;&gt;Общие сценарии: регистрация родителя (FR-01), вход/выход всех ролей (FR-02); проверка доступа (FR-03) действует во всех защищённых операциях.&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=left;verticalAlign=middle;strokeWidth=2;text;strokeColor=none;fillColor=none;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1110" width="1590" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="uc-note-2" value="&lt;div style=&quot;font-family:Arial;font-size:15px;font-weight:normal;color:#52657B;line-height:125%;&quot;&gt;Линия — участие роли, а не порядок действий. Пунктирный овал — Should. Пересмотр подбора по истории FR-17 — расширение UC-S2.&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Arial;fontColor=#172B4D;align=left;verticalAlign=middle;strokeWidth=2;text;strokeColor=none;fillColor=none;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1150" width="1590" height="38" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
