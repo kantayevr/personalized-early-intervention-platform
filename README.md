@@ -138,6 +138,7 @@ Development of an Intelligent Platform for Supporting Personalized Early Interve
 
 ## Документация и управление задачами
 
+- [Исследование потребностей — протокол и фактический статус DIP-2](docs/user-research.md)
 - [Описание проекта](docs/project-proposal.md)
 - [Сравнение аналогов](docs/analogues-comparison.md)
 - [Сравнение технологий](docs/technology-comparison.md)
@@ -147,7 +148,7 @@ Development of an Intelligent Platform for Supporting Personalized Early Interve
 - [Этапы, риски и зависимости](docs/project-plan.md)
 - [Проект в YouTrack](https://kantayevr.youtrack.cloud/projects/DIP)
 
-Ссылки на исследование пользователей, обзор литературы и прототип будут добавлены после публикации соответствующих материалов.
+Материал DIP-2 пока содержит протокол и гипотезы: подтверждённых обсуждений — 0. Ссылки на обзор литературы и прототип будут добавлены после публикации соответствующих материалов.
 
 ## Порядок командной работы
 
